@@ -2,7 +2,7 @@
 
 José Novais :: A108395
 
-![alt text](image.png)
+![alt text](../image.png)
 
 linguagem binaria que não admitem a palavra intermedia "011"
 
